@@ -1,7 +1,7 @@
 /*
 
  * Simple base bot whatsapp
- * Created by Anggazyy ZcoderX
+ * Created by Anggazyy ZcoderX Danzz
  * Support by ChatGPT Assistant
  * Jangan delete credit ya ^^
  
